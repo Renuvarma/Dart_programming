@@ -30,7 +30,7 @@ var b=55.5;    //Inthis case = right side values are called literals
   
   
   String word="renu";
-  String message="Hello Good Morning $word ";
-  print(message);
+  String message="Hello Good Morning $word "; // if u combine single string in another string then have to use $
+  print(message); 
   
 }
